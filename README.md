@@ -5,7 +5,7 @@
 [![Stars](https://img.shields.io/github/stars/jinj02?style=social&label=Stars)](https://github.com/jinj02?tab=repositories)
 -->
 
-I am a first-year PhD student in Computer Science at Zhejiang University, conducting research in Computer Graphics at the Graphics and Parallel Systems (GAPS) Lab, advised by Prof. Kun Zhou and Prof. Zhong Ren. I am particularly interested in real-time rendering and its real-world applications.
+I am a first-year PhD student in Computer Science at Zhejiang University, conducting research in Computer Graphics at the Graphics and Parallel Systems (GAPS) Lab. I am particularly interested in real-time rendering and its real-world applications.
 
 
 <!--
